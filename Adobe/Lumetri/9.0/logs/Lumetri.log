@@ -1,0 +1,18 @@
+Machine:   MEGHASHYAMs-MacBook-Pro.local in domain 
+User:      meghashyamnb
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i7-4770HQ CPU @ 2.20GHz
+           Model: 70, Family: 6, Stepping: 1 
+           Total Threads: 8
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AES AVX AVX2 FMA F16C POPCNT RDTSCP RDRAND
+Base path: /Applications/Adobe Premiere Pro CC 2018/Adobe Premiere Pro CC 2018.app/Contents/MacOS/
+Arguments: 
+
+07:07:25 [IrLog]           LogFile initialized
+07:07:25 [GlobalSettings]  Loading user settings from /Users/meghashyamnb/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
+07:08:02 [GlobalSettings]  Last object UID: 0x00000001
+07:08:02 [IrLog]           Closing log file
+
+01/29/18
