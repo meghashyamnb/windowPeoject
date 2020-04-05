@@ -13,8 +13,10 @@ public class Main {
         getInput();
         printArray(baseData);
         resizeArray();
-        System.out.println("Enter 12 integers");
-        getInput();
+        //System.out.println("Enter 12 integers");
+        //getInput();
+        baseData[10]=64;
+        baseData[11]=34;
         printArray(baseData);
     }
 
