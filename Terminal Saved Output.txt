@@ -1,0 +1,46 @@
+Last login: Thu Feb 27 01:46:31 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MEGHASHYAMs-MacBook-Pro:~ meghashyamnb$ nano ~/.bash_profile
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6 File: ...hashyamnb/.bash_profile Modified  
+
+export ANDROID_HOME=/Users/meghashyamnb/Library/Android/sdk
+export PATH=$ANDROID_HOME/platform-tools:$PATH
+export PATH=$ANDROID_HOME/tools:$PATH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Hel^O WriteOu^R Read Fi^Y Prev Pa^K Cut Tex^C Cur Pos
+^X Exit   ^J Justify^W Where I^V Next Pa^U UnCut T^T To Spel
