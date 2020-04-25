@@ -4,26 +4,37 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int count = 0;
-        int sum =0;
-
-        for(int i=1 ;i<=1000;i++){
-            if((i % 3==0)&&(i % 5==0)){
-                count++;
-                sum += i;
-
-                System.out.println("Found Number = "+ i);
-
-            }
-            if(count == 5){
-                break;
-            }
-        }
-
-        System.out.println("sum = "+ sum);
 
 
     }
+
+
+    public static boolean isOdd(int number){
+        if(number <0){
+            return false;
+        }if(number % 2 != 0){
+            return true;
+        }else{
+            return false;
+        }
+    }
+
+    public static int sumOdd(int start, int end) {
+        if (start > end || start < 1 || end < 1) {
+            return -1;
+        }
+        int sum = 0;
+        for (int i = start; i <= end; i++) {
+            if (isOdd(i)) {
+                sum += i;
+            }
+        }
+        return sum;
+    }
+
+
+
+
 
 
 }
